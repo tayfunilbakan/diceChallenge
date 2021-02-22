@@ -18,5 +18,3 @@ else if ( randomNumber2 > randomNumber1 ) {
 else {
   document.querySelector("h1").innerHTML = "Draw! &#128406"
 }
-
-// Hint: You'll need to use an if statement, querySelector() and the innerHTML property to change the text in the h1.
